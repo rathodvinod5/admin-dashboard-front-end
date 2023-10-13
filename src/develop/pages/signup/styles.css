@@ -1,0 +1,34 @@
+.login-outer-cont {
+    height: 800px
+}
+
+.bg {
+    /* The image used */
+    background: url('../../../assets/background/auth-v2-login-illustration-light.png') no-repeat;
+  
+    /* Full height */
+    height: 100%;
+    
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+
+.bg-left-container {
+    width: 68%;
+    height: 100%;
+    height: 800px;
+    background-color: #F4F5FA;
+}
+
+.login-comp-cont {
+    width: 32%; 
+    /* height: 100%; */
+    height: 800px;
+    /* border: 0.5px solid black; */
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+}
